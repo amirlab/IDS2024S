@@ -9,5 +9,5 @@
 **Level:** Freshman  
 **Position Title:** Student    
 **Course Webpage:** [IDS2024S](www.cdslab.org/IDS2024S)  
-Photo:  ![A photo of Amir](https://upload.wikimedia.org/wikipedia/commons/e/e7/Leucanthemum_vulgare_%27Filigran%27_Flower_2200px.jpg)  
+Photo:  ![A photo of Amir](AmirShahmoradi.png)  
 
